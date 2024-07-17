@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 |-----------|-------------|
 | Project 1 - Building a Blog Application with Django Framework | Example     |
 | Project 2 - Security monitoring with Wazuh | Example |
+## Labs
+| Lab | Description |
+|-----|-------------|
+|Lab 1| Example ....|
